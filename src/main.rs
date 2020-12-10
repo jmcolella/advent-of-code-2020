@@ -1,4 +1,4 @@
-mod day_9;
+mod day_10;
 
 fn main() {
     // day_1::run()
@@ -9,5 +9,6 @@ fn main() {
     // day_6::solution::run();
     // day_7::solution::run();
     // day_8::solution::run();
-    day_9::solution::run();
+    // day_9::solution::run();
+    day_10::solution::run();
 }
